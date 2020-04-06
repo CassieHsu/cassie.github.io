@@ -412,7 +412,7 @@ a.nav-list-item:hover {
   margin: 5px 0 5px 10px;
   font-weight: 750;
   font-size: 1.1em;
-  background-image: url("/compass/imgs/logo.png");
+  background-image: url("/compass/imgs/logo.jpg");
   background-repeat: no-repeat;
   letter-spacing: 1px;
   -moz-background-size: auto 50px;
@@ -481,7 +481,7 @@ a.nav-list-item:hover {
   color: #fff;
   text-align: left;
   background-color: rgba(0, 0, 0, 0.8);
-  background-image: url("/compass/imgs/header.png");
+  background-image: url("/compass/imgs/header.jpg");
 }
 @media screen and (max-width: 700px) {
   /* line 3, ../sass/layout/_header.scss */
@@ -670,7 +670,7 @@ a.read-more:hover {
   letter-spacing: 1px;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.8);
-  background-image: url("/compass/imgs/footer.png");
+  background-image: url("/compass/imgs/footer.jpg");
 }
 /* line 18, ../sass/layout/_footer.scss */
 #footer-wrapper {
